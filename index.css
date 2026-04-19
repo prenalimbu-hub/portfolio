@@ -2,13 +2,14 @@ body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
     background: #cfe5e8;
+    text-align: center;
 }
 
 header {
     background: #5f8f94;
     color: white;
     padding: 15px;
-    text-align: center;
+  
 }
 
 nav a {
