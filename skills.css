@@ -1,0 +1,32 @@
+body {
+    background: #e3f0f2;
+    font-family: Verdana;
+    text-align: center;
+}
+
+header {
+    background: #4c7c82;
+    color: white;
+    padding: 20px;
+}
+
+.skills {
+    padding: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+    padding: 8px;
+    background: #bcd4d8;
+    border-radius: 5px;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #2f5d62;
+}
